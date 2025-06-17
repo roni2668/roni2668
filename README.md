@@ -22,9 +22,7 @@ I'm a passionate software developer from Kolkata, India, who loves building real
 ### ♟️ [Chess Multiplayer Game](https://github.com/roni2668/ChessGame)
 > Real-time multiplayer chess game using Socket.io, Node.js, and Tailwind CSS. Allows two players to compete live with automatic room handling.
 
-### 🌦️ [Weather Dashboard](https://github.com/roni2668/WeatherDashboard)
-> React.js app to display real-time weather conditions with API integration, dynamic theming, and responsive design.
-
+### More projects i am currently working on will be updated shortly 
 ---
 
 ## 🏆 Achievements
