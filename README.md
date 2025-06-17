@@ -19,9 +19,6 @@ I'm a passionate software developer from Kolkata, India, who loves building real
 
 ## 💼 Featured Projects
 
-### 🛒 [SCatch – Online Shopping System](https://github.com/roni2668/SCatch)
-> A full-stack e-commerce platform built with Node.js, Express, EJS, MongoDB, and Razorpay integration. Features include secure authentication, product filtering, order history, and dynamic checkout.
-
 ### ♟️ [Chess Multiplayer Game](https://github.com/roni2668/ChessGame)
 > Real-time multiplayer chess game using Socket.io, Node.js, and Tailwind CSS. Allows two players to compete live with automatic room handling.
 
