@@ -22,7 +22,10 @@ I'm a passionate software developer from Kolkata, India, who loves building real
 ### ♟️ [Chess Multiplayer Game](https://github.com/roni2668/ChessGame)
 > Real-time multiplayer chess game using Socket.io, Node.js, and Tailwind CSS. Allows two players to compete live with automatic room handling.
 
-### More projects i am currently working on will be updated shortly 
+### 🌟 [SCatch – An Online E-Commerce Platform] (https://github.com/roni2668/Scatch)
+> **SCatch** is a full-featured e-commerce web application built with **Node.js**, **Express**, **MongoDB**, and **EJS**. It allows users to browse products, manage carts and wishlists, and place orders via **Razorpay payment gateway** with signature verification and secure order storage. It also supports light/dark theme toggle, order history, and profile editing.
+
+### 
 ---
 
 ## 🏆 Achievements
