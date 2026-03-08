@@ -48,7 +48,7 @@ I'm a passionate software developer from Kolkata, India, who loves building real
 ## 📫 Let's Connect
 
 - GitHub: [@roni2668](https://github.com/roni2668)
-- LinkedIn: [linkedin.com/in/roni2668](https://linkedin.com/in/roni2668)
+- LinkedIn: [http://www.linkedin.com/in/ronimandal)
 
 ---
 
