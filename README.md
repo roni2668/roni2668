@@ -19,6 +19,9 @@ I'm a passionate software developer from Kolkata, India, who loves building real
 
 ## 💼 Featured Projects
 
+### 🚀 [EmmyTask Pro - Task Management System](https://github.com/roni2668/task-management-system)
+> A robust, enterprise-grade Task Management System built to fulfill the Software Engineering Assessment requirements for Track A (Full-Stack). This system allows users to securely register, log in, and perform full management of their personal tasks with a modern, responsive interface
+
 ### 🚀 [MetroFlow AI – Cross-Platform Traffic Reliability System](https://github.com/roni2668/MetroFlow-AI)
 > MetroFlow AI is a high-performance 10-module engineering framework designed to quantify urban traffic "unreliability." It utilizes a C++ Physics Kernel for edge-computing data ingestion, a Python LSTM Neural Network for recursive 24-hour time-series forecasting, and an interactive JavaScript Dashboard. The system moves beyond average speed metrics to calculate the Buffer Index (BI) and Planning Time Index (PTI), providing deep insights into the economic impact of congestion shocks.
 
