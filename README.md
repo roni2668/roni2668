@@ -34,6 +34,9 @@ I'm a passionate software developer from Kolkata, India, who loves building real
 ### 🌟 [SCatch – An Online E-Commerce Platform](https://github.com/roni2668/Scatch)
 > **SCatch** is a full-featured e-commerce web application built with **Node.js**, **Express**, **MongoDB**, and **EJS**. It allows users to browse products, manage carts and wishlists, and place orders via **Razorpay payment gateway** with signature verification and secure order storage. It also supports light/dark theme toggle, order history, and profile editing.
 
+### 🎙️ [Hindi ASR Optimization & Advanced Evaluation Pipeline](https://github.com/roni2668/Hindi_ASR_FineTuning_and_Lattice_Evaluation_Pipeline)
+> This repository contains a comprehensive pipeline designed to improve and evaluate Automatic Speech Recognition (ASR) for conversational Hindi. The project transitions from standard "rigid" string matching to a sophisticated Lattice-based evaluation system, ensuring that valid linguistic variations (synonyms, number formats, and spellings) are handled fairly.
+
 ### 🌙 [Moodly](https://github.com/roni2668/Moodly)
 > Welcome to Moodly, your personal space to express thoughts, share moods, and connect with the vibe! Whether it’s a text snippet, a spontaneous update, or an image of your    moment — Moodly lets you post it, like it, and live it.
 ---
