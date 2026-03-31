@@ -19,6 +19,9 @@ I'm a passionate software developer from Kolkata, India, who loves building real
 
 ## 💼 Featured Projects
 
+### [MY PORTFOLIO](https://portfolio-roni-2668s-projects.vercel.app/)
+> Modern, high-performance portfolio featuring Framer Motion animations and dynamic project rendering. Deployed on Vercel.
+
 ### 🚀 [EmmyTask Pro - Task Management System](https://github.com/roni2668/task-management-system)
 > A robust, enterprise-grade Task Management System built to fulfill the Software Engineering Assessment requirements for Track A (Full-Stack). This system allows users to securely register, log in, and perform full management of their personal tasks with a modern, responsive interface
 
